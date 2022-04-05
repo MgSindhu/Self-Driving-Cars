@@ -37,3 +37,8 @@ Linux, MacOS: `source activate carnd`
 python main.py INPUT_IMAGE OUTPUT_IMAGE_PATH
 python main.py --video INPUT_VIDEO OUTPUT_VIDEO_PATH
 ```
+
+
+<p align="center">
+  <img width="1000" src="harder_challenge_video.mp4">
+</p>
